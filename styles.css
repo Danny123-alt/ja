@@ -7,7 +7,7 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',;
     line-height: 1.6;
-    background-image: url("./images/background.png");
+    background-image: url("./images/background.jpeg");
     color: white;
     margin: 0;
 }
@@ -18,7 +18,7 @@ header {
     align-items: center;
     font-family: Handwriting;
     padding: 20px;
-    background-image: url("./images/streeeeem.png");
+    background-image: url("./images/streeeeem.jpeg");
     color: #e70c42;
 }
 
